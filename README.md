@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  
 <br>
  
-### Para conteúdo sobre programação me segue nas redes abaixo!
+### Redes Sociais
  
 <div> 
  <!-- <a href="https://www.youtube.com/JJunior-Dev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
